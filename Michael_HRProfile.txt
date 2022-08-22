@@ -1,0 +1,12 @@
+Michael 's Profile 
+First Name: Michael
+Last Name: Blasse
+Age: 21
+Gender: Male
+Date of Birth: 12/20/2000
+Adress: Jim Rose Street
+Email: mblasse@hotmail.com
+Mobile Number: +2 (582) 281-8572
+Home Number: 
+Emergency Contact:
+
